@@ -122,7 +122,7 @@ Frontend chạy tại: `http://localhost:8501`
 
 ## 🎥 Video Demo
 
-[Link video demo](https://your-video-link-here)
+[Link video demo](https://drive.google.com/file/d/1puQlWVlrfbbtP3dOMFkQW0BSTlFEievX/view?usp=sharing)
 
 ---
 
